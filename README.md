@@ -1,4 +1,4 @@
-# Capacitación en BLAST por línea de comandos: Análisis Básico de Secuencias
+# BLAST por línea de comandos: Análisis Básico de Secuencias
 
 ## **1. Introducción a BLAST**
 ### ¿Qué es BLAST?
